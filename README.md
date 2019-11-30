@@ -29,3 +29,6 @@
 
 ### 7. DT, KNN and NB: [Семинар](https://nbviewer.jupyter.org/github/samstikhin/mlmathmech/blob/master/07-KNN%2C%20DT%2C%20Bayes/sem.ipynb) [Видео](https://yadi.sk/i/rotZgad19D2ssg) [Задачи](https://ulearn.me/Course/ml/Entropiya_i_kriteriy_Dzhini_2781d55a-b4e7-429c-8f26-3a1b0805165e)
 
+# mlmathmech
+Репозиторий спецкурса по МЛ на матмехе
+>>>>>>> 3 and 4 hw
